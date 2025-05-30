@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../../../resources/fonts/pinNP366/Roboto_Condensed_Regular_7cc48b66cb.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Roboto Condensed Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Roboto_Condensed_Bold_02a8e600ba.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Overpass';
+  src: url('../../../resources/fonts/pinNP366/Overpass_Regular_611b0cf64b.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Overpass Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Overpass_Bold_83fd031f84.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Squada One';
+  src: url('../../../resources/fonts/pinNP366/Squada_One_Regular_6f548e0efc.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Saira SemiCondensed';
+  src: url('../../../resources/fonts/pinNP366/Saira_Semi_Condensed_Regular_d0a46ae33f.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Saira SemiCondensed Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Saira_Semi_Condensed_Bold_ae100ae9ec.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Exo2';
+  src: url('../../../resources/fonts/pinNP366/Exo2_Regular_2f7bffb38b.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Exo2 Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Exo2_Bold_398c5945a9.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Barlow';
+  src: url('../../../resources/fonts/pinNP366/Barlow_Regular_87ace4dc22.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Barlow Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Barlow_Bold_b1b7246ae0.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Barlow Condensed';
+  src: url('../../../resources/fonts/pinNP366/Barlow_Condensed_Regular_d853cc0dfa.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Barlow Condensed Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Barlow_Condensed_Bold_267c0616d5.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url('../../../resources/fonts/pinNP366/Libre_Baskerville_Regular_11c14ab41b.woff2')
+    format('woff2');
+}
+@font-face {
+  font-family: 'Libre Baskerville Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Libre_Baskerville_Bold_70374b17df.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Jost Regular';
+  src: url('../../../resources/fonts/pinNP366/Jost_Regular_8e9305088d.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Jost Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Jost_Bold_07442ff46d.woff2')
+}
+
+@font-face {
+  font-family: 'Jost Regular700';
+  font-weight: 700;
+  src: url('../../../resources/fonts/pinNP366/Jost_Regular_8e9305088d.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'Jost ExtraBold';
+  font-weight: 800;
+  src: url('../../../resources/fonts/pinNP366/Jost_Extra_Bold_71e174b4cb.woff2')
+    format('woff2');
+}
+
+@font-face {
+  font-family: 'OpenSans Regular';
+  src: url('../../../resources/fonts/pinNP366/Open_Sans_Regular_1bdfcd5d5e.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'OpenSans Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Open_Sans_Bold_61fff36778.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'FiraSans Regular';
+  src: url('../../../resources/fonts/pinNP366/Fira_Sans_Regular_135626f8fa.woff') format('woff2');
+}
+
+@font-face {
+  font-family: 'FiraSans Bold';
+  font-weight: 600;
+  src: url('../../../resources/fonts/pinNP366/Fira_Sans_Bold_f072cd112d.woff') format('woff2');
+}
